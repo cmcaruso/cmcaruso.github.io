@@ -4,16 +4,10 @@
     "label": "Ph.D. candidate in AI for Health & Life Sciences",
     "image": "",
     "email": "camillomcaruso@gmail.com",
+    "OrcID": "0000-0002-7320-4173",
+    "Scopus": "57963063200",
     "phone": "",
-    "url": "https://cmcaruso.github.io/",
     "summary": "Italian Ph.D. student researching multimodal deep-learning methods that integrate clinical tabular and imaging data to improve diagnosis, prognosis and treatment decisions in healthcare.",
-    "location": {
-      "address": "via Álvaro del Portillo 21",
-      "postalCode": "00128",
-      "city": "Rome",
-      "countryCode": "IT",
-      "region": "Italy"
-    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -29,8 +23,20 @@
         "network": "ORCID",
         "username": "0000-0002-7320-4173",
         "url": "https://orcid.org/0000-0002-7320-4173"
+      },
+      {
+        "network": "Scopus",
+        "username": "57963063200",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=57963063200"
       }
-    ]
+    ],
+    "location": {
+      "address": "via Álvaro del Portillo 21",
+      "postalCode": "00128",
+      "city": "Rome",
+      "countryCode": "IT",
+      "region": "Italy"
+    }
   },
   "work": [
     {

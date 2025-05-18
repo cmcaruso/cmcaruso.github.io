@@ -9,8 +9,9 @@ profile:
   image: caruso.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Unit of Artificial Intellingence & Computer Systems, Department of Engineering, Università Campus Bio-Medico di Roma</p>
     <p>via Álvaro del Portillo 21</p>
-    <p>Rome, Italy 00128</p>
+    <p>00128 Rome RM, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
