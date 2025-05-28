@@ -41,14 +41,11 @@
   "work": [
     {
       "name": "University Campus Bio-Medico of Rome",
-      "position": "Ph.D. Student, National PhD in Artificial Intelligence – Health & Life Sciences",
+      "position": "Researcher",
       "url": "https://www.unicampus.it/",
-      "startDate": "2021-11-01",
+      "startDate": "2024-11-01",
       "endDate": "",
-      "summary": "Research on multimodal deep learning for biomedical data; research exchange at Dept. of Diagnostics & Intervention, Radiation Physics, Biomedical Engineering, Umeå University.",
-      "highlights": [
-        "Developing AI-based multimodal approaches for cardiovascular-disease prevention in collaboration with Umeå University"
-      ]
+      "summary": "Multimodal and Generative AI solution for diagnosis, prognosis and treatment support."
     },
     {
       "name": "University Campus Bio-Medico of Rome",
@@ -65,10 +62,11 @@
       "location": "Rome, Italy",
       "url": "https://www.unicampus.it/",
       "area": "Artificial Intelligence – Health & Life Sciences",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. Candidate",
       "startDate": "2021-11-01",
       "endDate": "",
-      "score": ""
+      "score": "",
+      "summary": "Research on multimodal deep learning for biomedical data; research exchange at Dept. of Diagnostics & Intervention, Radiation Physics, Biomedical Engineering, Umeå University."
     },
     {
       "institution": "University Campus Bio-Medico of Rome",

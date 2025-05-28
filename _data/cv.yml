@@ -15,11 +15,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: PhD Student
+    - title: Researcher
       institution: Unit of Computer Systems and Bioinformatics (CoSBi), University Campus Bio-Medico di Rome
-      year: Nov 2021 – present
+      year: Nov 2024 – present
       description:
-        - Multimodal deep-learning research for diagnosis, prognosis and treatment support.
+        - Multimodal and Generative AI solution for diagnosis, prognosis and treatment support.
     - title: Graduate Research Associate
       institution: University Campus Bio-Medico di Rome, Rome, Italy
       year: Jun 2021 – Oct 2021
@@ -29,7 +29,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Artificial Intelligence – Health & Life Sciences
+    - title: PhD candidate in Artificial Intelligence – Health & Life Sciences
       institution: University Campus Bio-Medico di Rome, Rome, Italy
       year: 2021 – present
       description:
