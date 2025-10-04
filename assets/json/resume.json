@@ -128,6 +128,13 @@
   ],
   "publications": [
     {
+      "name": "Transformer-based AI approach to unravel long-term, time-dependent prognostic complexity in patients with advanced NSCLC and PD-L1≥ 50\\%: insights from the pembrolizumab 5-year global registry",
+      "publisher": "Journal for Immunotherapy of Cancer",
+      "releaseDate": "2025-09-29",
+      "url": "https://doi.org/10.1136/jitc-2025-012423",
+      "summary": ""
+    },
+    {
       "name": "MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data",
       "publisher": "Computers in Biology and Medicine",
       "releaseDate": "2025-08-09",
