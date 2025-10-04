@@ -113,6 +113,17 @@
   code={https://github.com/cosbidev/MARIA}
 }
 
+@article{molino2025text,
+  abbr={arXiv},
+  title={Text-to-CT Generation via 3D Latent Diffusion Model with Contrastive Vision-Language Pretraining},
+  author={Molino, Daniele and Caruso, Camillo Maria and Ruffini, Filippo and Soda, Paolo and Guarrasi, Valerio},
+  journal={arXiv preprint arXiv:2506.00633},
+  arxiv={2506.00633},
+  year={2025},
+  code={https://github.com/cosbidev/Text2CT},
+  abstract={Objective: While recent advances in text-conditioned generative models have enabled the synthesis of realistic medical images, progress has been largely confined to 2D modalities such as chest X-rays. Extending text-to-image generation to volumetric CT remains a significant challenge, due to its high dimensionality, anatomical complexity, and the absence of robust frameworks that align vision-language data in 3D medical imaging. Methods: We introduce a novel architecture for Text-to-CT generation that combines a latent diffusion model with a 3D contrastive vision-language pretraining scheme. Our approach leverages a dual-encoder CLIP-style model trained on paired CT volumes and radiology reports to establish a shared embedding space, which serves as the conditioning input for generation. CT volumes are compressed into a low-dimensional latent space via a pretrained volumetric VAE, enabling efficient 3D denoising diffusion without requiring external super-resolution stages. Results: We evaluate our method on the CT-RATE dataset and conduct a comprehensive assessment of image fidelity, clinical relevance, and semantic alignment. Our model achieves competitive performance across all tasks, significantly outperforming prior baselines for text-to-CT generation. Moreover, we demonstrate that CT scans synthesized by our framework can effectively augment real data, improving downstream diagnostic performance. Conclusion: Our results show that modality-specific vision-language alignment is a key component for high-quality 3D medical image generation. By integrating contrastive pretraining and volumetric diffusion, our method offers a scalable and controllable solution for synthesizing clinically meaningful CT volumes from text, paving the way for new applications in data augmentation, medical education, and automated clinical simulation. Code at https://github.com/cosbidev/Text2CT.}
+}
+
 @article{cortellini2025transformer,
   abbr={JITC},
   title={Transformer-based AI approach to unravel long-term, time-dependent prognostic complexity in patients with advanced NSCLC and PD-L1≥ 50\%: insights from the pembrolizumab 5-year global registry},
