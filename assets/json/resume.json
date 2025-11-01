@@ -128,44 +128,51 @@
   ],
   "publications": [
     {
+      "name": "Long-term outcomes from pembrolizumab monotherapy in patients with advanced NSCLC, PD-L1 expression ≥ 50%, and poor performance status: Transformer-based AI to characterize prognostic complexity",
+      "publisher": "Lung Cancer",
+      "releaseDate": "2025-10-13",
+      "url": "https://doi.org/10.1016/j.lungcan.2025.108799",
+      "summary": ""
+    },
+    {
       "name": "Transformer-based AI approach to unravel long-term, time-dependent prognostic complexity in patients with advanced NSCLC and PD-L1≥50%: insights from the pembrolizumab 5-year global registry",
       "publisher": "Journal for Immunotherapy of Cancer",
-      "releaseDate": "2025-09-29",
+      "releaseDate": "2025-07-31",
       "url": "https://doi.org/10.1136/jitc-2025-012423",
       "summary": ""
     },
     {
       "name": "MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data",
       "publisher": "Computers in Biology and Medicine",
-      "releaseDate": "2025-08-09",
+      "releaseDate": "2025-07-22",
       "url": "https://doi.org/10.1016/j.compbiomed.2025.110843",
       "summary": ""
     },
     {
       "name": "A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications",
       "publisher": "Image and Vision Computing",
-      "releaseDate": "2025-03-25",
+      "releaseDate": "2025-03-12",
       "url": "https://doi.org/10.1016/j.imavis.2025.105509",
       "summary": ""
     },
     {
       "name": "A Deep Learning Approach for Overall Survival Prediction in Lung Cancer with Missing Values",
       "publisher": "Computer Methods and Programs in Biomedicine",
-      "releaseDate": "2024-09-01",
+      "releaseDate": "2024-06-24",
       "url": "https://doi.org/10.1016/j.cmpb.2024.108308",
       "summary": ""
     },
     {
       "name": "A Cascade of Learners for Firemen’s Emergency Events Classification",
       "publisher": "IEEE Access",
-      "releaseDate": "2023-10-26",
+      "releaseDate": "2023-10-17",
       "url": "https://doi.org/10.1109/ACCESS.2023.3327913",
       "summary": ""
     },
     {
       "name": "A Multimodal Ensemble Driven by Multi-objective Optimisation to Predict Overall Survival in Non-Small-Cell Lung Cancer",
       "publisher": "Journal of Imaging",
-      "releaseDate": "2022-11-02",
+      "releaseDate": "2022-10-30",
       "url": "https://doi.org/10.3390/jimaging8110298",
       "summary": ""
     }
@@ -173,7 +180,7 @@
   "skills": [
     {
       "name": "Programming & Data Science",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Python",
         "MATLAB",
