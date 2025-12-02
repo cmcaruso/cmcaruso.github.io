@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-👋 Hello! I’m Camillo, a biomedical engineer and Ph.D. candidate exploring how artificial intelligence can improve early diagnosis and prognosis of complex diseases, with an emphasis on learning with missing information.
-I earned my M.Sc. in Biomedical Engineering at [University Campus Bio-Medico of Rome](https://www.unicampus.it/en/), where I first blended my passion for technology and medicine. 
+👋 Hello! I’m Camillo, a biomedical engineer and Ph.D. in AI exploring how artificial intelligence can improve early diagnosis and prognosis of complex diseases, with an emphasis on learning with missing information.
+I earned my Ph.D. in AI at [University Campus Bio-Medico of Rome](https://www.unicampus.it/en/), where I first blended my passion for technology and medicine. 
 
 Outside the lab I’m a lifelong scout, happiest when planning menus, packing supplies, and making sure our summer camps run without a hitch.

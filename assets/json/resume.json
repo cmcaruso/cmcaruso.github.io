@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Camillo Maria Caruso",
-    "label": "Ph.D. candidate in AI for Health & Life Sciences",
+    "label": "Ph.D. in AI for Health & Life Sciences",
     "image": "",
     "email": "camillomcaruso@gmail.com",
     "OrcID": "0000-0002-7320-4173",
     "Scopus": "57963063200",
     "phone": "",
-    "summary": "Italian Ph.D. student researching multimodal deep-learning methods that integrate clinical tabular and imaging data to improve diagnosis, prognosis and treatment decisions in healthcare.",
+    "summary": "Ph.D. in AI researching multimodal deep-learning methods that integrate clinical tabular and imaging data to improve diagnosis, prognosis and treatment decisions in healthcare.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -64,7 +64,7 @@
       "area": "Artificial Intelligence – Health & Life Sciences",
       "studyType": "Ph.D. Candidate",
       "startDate": "2021-11-01",
-      "endDate": "",
+      "endDate": "2025-12-01",
       "score": "",
       "summary": "Research on multimodal deep learning for biomedical data; research exchange at Dept. of Diagnostics & Intervention, Radiation Physics, Biomedical Engineering, Umeå University."
     },
