@@ -128,6 +128,13 @@
   ],
   "publications": [
     {
+      "name": "Mask-Aware Transformers Enable Robust Learning from Incomplete Volumetric Medical Imaging",
+      "publisher": "Springer, Cham",
+      "releaseDate": "2026-01-02",
+      "url": "https://doi.org/10.1007/978-3-032-11317-7_15",
+      "summary": ""
+    },
+    {
       "name": "Long-term outcomes from pembrolizumab monotherapy in patients with advanced NSCLC, PD-L1 expression ≥ 50%, and poor performance status: Transformer-based AI to characterize prognostic complexity",
       "publisher": "Lung Cancer",
       "releaseDate": "2025-10-13",

@@ -161,3 +161,17 @@ Out of 1050 patients, 161 patients with ECOG PS≥2 were included, showing a med
 Conclusions
 Despite the overall poor prognosis, a subset of patients with ECOG PS≥2 achieves long-term survival with pembrolizumab monotherapy, indicating that performance status alone should not preclude treatment in all cases. Our analysis highlights the limitations of traditional statistical approaches and AI-driven models in predicting long-term benefit in this heterogeneous population. Future efforts should focus on refining hybrid modeling strategies and incorporating prospective validation to better identify those who may benefit from immunotherapy beyond short-term expectations.}
 }
+
+@InProceedings{10.1007/978-3-032-11317-7_15,
+abbr={ICIAP},
+author={Caruso, Camillo Maria and Bruni, Riccardo and Guarrasi, Valerio},
+editor={Rodol{\`a}, Emanuele and Galasso, Fabio and Masi, Iacopo},
+title={Mask-Aware Transformers Enable Robust Learning from Incomplete Volumetric Medical Imaging},
+booktitle={Image Analysis and Processing - ICIAP 2025 Workshops},
+year={2026},
+publisher={Springer Nature Switzerland},
+address={Cham},
+pages={175--186},
+abstract= {Incomplete or sparsely sampled volumetric scans are pervasive across medical imaging modalities: patient motion, shortened acquisition protocols, and hardware constraints frequently result in missing slices that undermine downstream analysis. Conventional deep learning pipelines either discard these studies or rely on voxel-wise interpolation, potentially introducing artefactual signals. We present a Mask-Aware Vision Transformer (MAViT), a modality-agnostic architecture that learns directly from incomplete 3D volumes without synthetic reconstruction. MAViT leverages a binary slice-availability mask to identify corrupted patches and selectively suppress their contribution within each self-attention block, effectively guiding feature aggregation while mitigating the impact of missing data. To benchmark robustness, we synthetically corrupt brain MRI volumes from the Alzheimer's Disease Neuroimaging Initiative with different slice-drop rates. Despite being trained on heterogeneous missing-slice patterns, MAViT achieves state-of-the-art performance on Alzheimer's disease classification, surpassing 3D interpolation-based and 2D slice-wise baselines. These findings indicate that mask-aware modelling offers a valuable approach to learning from incomplete volumetric data, readily extending beyond brain MRI to other imaging modalities.},
+isbn={978-3-032-11317-7}
+}
