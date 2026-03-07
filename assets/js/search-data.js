@@ -4,21 +4,21 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "About",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "Publications",
-          description: "Publications by Camillo Maria Caruso — peer-reviewed papers on AI, machine learning, and biomedical engineering.",
+          title: "publications",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae of Camillo Maria Caruso — education, research experience, publications, and skills.",
+          title: "cv",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
