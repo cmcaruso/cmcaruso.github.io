@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 3
 cv_pdf: CV_caruso.pdf # you can also use external links here
-description: Curriculum Vitae of Camillo Maria Caruso — education, research experience, publications, and skills.
+description: #Curriculum Vitae of Camillo Maria Caruso — education, research experience, publications, and skills.
 toc:
   sidebar: left
 ---

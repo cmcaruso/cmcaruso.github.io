@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 # subtitle: <a href='https://www.unicampus.it/ricerca-ucbm/unita-di-ricerca/unita-di-ricerca-ingegneria/sistemi-di-elaborazione-bioinformatica/'>Research Unit of Artificial Intelligence & Computer Systems</a>. University Campus Bio-Medico of Rome, Rome, Italy
 

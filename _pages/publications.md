@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: Publications by Camillo Maria Caruso — peer-reviewed papers on AI, machine learning, and biomedical engineering.
+title: publications
+description: #Publications by Camillo Maria Caruso — peer-reviewed papers on AI, machine learning, and biomedical engineering.
 nav: true
 nav_order: 2
 ---
