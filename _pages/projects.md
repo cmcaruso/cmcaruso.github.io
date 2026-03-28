@@ -9,7 +9,7 @@ nav_order: 2
 
 ## NAIM
 
-**Not Another Imputation Method** — A transformer-based framework for imputing missing values in tabular datasets. NAIM learns cross-feature attention patterns to reconstruct incomplete records without task-specific fine-tuning.
+**Not Another Imputation Method** — A transformer-based framework for handling missing values in tabular datasets. NAIM learns cross-feature attention patterns regardless of any missing value.
 
 - **Stack:** Python, PyTorch
 - **Paper:** [AI Open (2026)](https://doi.org/10.1016/j.aiopen.2026.02.005)
