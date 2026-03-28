@@ -10,12 +10,12 @@ contact_note: >
   Feel free to contact me!
 #  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Camillo Maria Caruso — Biomedical Engineer and Ph.D. in AI at Università Campus Bio-Medico di Roma. Research on artificial intelligence for early diagnosis and prognosis of complex diseases.
+  Camillo Maria Caruso — ML Researcher with a Ph.D. in AI. Building multimodal deep-learning systems for healthcare applications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: camillo maria caruso, biomedical engineering, artificial intelligence, machine learning, medical AI, missing data, early diagnosis, università campus bio-medico di roma # add your own keywords or leave empty
+keywords: camillo maria caruso, ml research engineer, artificial intelligence, machine learning, deep learning, pytorch, multimodal fusion, medical AI, missing data, transformer, università campus bio-medico di roma # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📌 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -557,7 +557,7 @@ jsonresume:
   - work
   - education
   - publications
-  #- projects
+  - projects
   #- volunteer
   #- awards
   - certificates

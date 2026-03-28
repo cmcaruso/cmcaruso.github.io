@@ -15,16 +15,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher
+    - title: ML Researcher
       institution: Unit of Computer Systems and Bioinformatics (CoSBi), University Campus Bio-Medico di Rome
       year: Nov 2024 – present
       description:
-        - Multimodal and Generative AI solution for diagnosis, prognosis and treatment support.
+        - Design, train and deploy multimodal and generative AI models for diagnosis, prognosis and treatment support.
+        - Develop and maintain open-source PyTorch codebases (NAIM, MARIA, Text2CT).
     - title: Graduate Research Associate
       institution: University Campus Bio-Medico di Rome, Rome, Italy
       year: Jun 2021 – Oct 2021
       description:
-        - Biomedical machine-learning projects within CoSBi.
+        - Built end-to-end machine-learning pipelines for healthcare applications within CoSBi.
 
 - title: Education
   type: time_table
@@ -63,15 +64,24 @@
       items:
         - First Certificate in English (FCE), University of Cambridge ESOL
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Artificial Intelligence for Medicine
+    - title: Languages
       items:
-        - Multimodal deep learning and representation learning.
-        - Clinical decision-support for diagnosis, prognosis and therapy.
-        - Handling missing values in tabular clinical data.
-        - Survival-analysis models for oncology imaging datasets.
+        - Python, C++, MATLAB
+    - title: ML / DL Frameworks
+      items:
+        - PyTorch, HuggingFace Transformers, Scikit-learn
+    - title: Data & Analysis
+      items:
+        - Pandas, NumPy, Matplotlib, LaTeX
+    - title: DevOps & Tools
+      items:
+        - Docker, Git, Linux
+    - title: Domains
+      items:
+        - Multimodal Fusion, Medical Imaging, Missing Data Imputation, Survival Analysis
 
 - title: Other Interests
   type: list
