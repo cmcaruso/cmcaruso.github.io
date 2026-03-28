@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello! I’m Camillo, an ML Researcher with a Ph.D. in AI. I design and build multimodal deep-learning systems that turn heterogeneous clinical data, imaging, tabular records, free text, into actionable tools for diagnosis, prognosis, and treatment support, with a particular focus on learning robustly from incomplete information.
 
-I earned my Ph.D. at [University Campus Bio-Medico of Rome](https://www.unicampus.it/en/), where I developed transformer-based architectures resilient to missing-data for classification and time-to-event prediction tasks, publishing in venues such as *AI Open*, *Computers in Biology and Medicine*, and *IEEE Access*, and releasing every model as open-source code.
+I earned my Ph.D. at [University Campus Bio-Medico of Rome](https://www.unicampus.it/en/), where I developed transformer-based architectures resilient to missing data for classification and time-to-event prediction tasks, publishing in venues such as *AI Open*, *Computers in Biology and Medicine*, and *IEEE Access*, and releasing every model as open-source code.
 
 Outside the lab I’m a lifelong scout, happiest when planning menus, packing supplies, and making sure our summer camps run without a hitch.
