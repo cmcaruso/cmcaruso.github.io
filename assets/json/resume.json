@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Camillo Maria Caruso",
-    "label": "Ph.D. in AI for Health & Life Sciences",
+    "label": "Machine Learning Researcher",
     "image": "",
     "email": "camillomcaruso@gmail.com",
     "OrcID": "0000-0002-7320-4173",
     "Scopus": "57963063200",
     "phone": "",
-    "summary": "Ph.D. in AI researching multimodal deep-learning methods that integrate clinical tabular and imaging data to improve diagnosis, prognosis and treatment decisions in healthcare.",
+    "summary": "ML Researcher with a Ph.D. in AI, specializing in multimodal deep learning and transformer architectures for healthcare. Builds end-to-end pipelines from research prototyping to reproducible, open-source releases.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -41,11 +41,11 @@
   "work": [
     {
       "name": "University Campus Bio-Medico of Rome",
-      "position": "Research Fellow",
+      "position": "ML Researcher",
       "url": "https://www.unicampus.it/",
       "startDate": "2024-11-01",
       "endDate": "",
-      "summary": "Multimodal and Generative AI solution for diagnosis, prognosis and treatment support."
+      "summary": "Design, train and deploy multimodal and generative AI models for diagnosis, prognosis and treatment support. Develop and maintain open-source PyTorch codebases (NAIM, MARIA, Text2CT)."
     },
     {
       "name": "University Campus Bio-Medico of Rome",
@@ -193,19 +193,29 @@
   ],
   "skills": [
     {
-      "name": "Programming & Data Science",
-      "level": "Intermediate",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "C++",
-        "Machine Learning",
-        "Deep Learning",
-        "Multimodal Fusion",
-        "Medical Imaging",
-        "Big Data Analysis",
-        "LaTeX"
-      ]
+      "name": "Languages",
+      "level": "",
+      "keywords": ["Python", "C++", "MATLAB"]
+    },
+    {
+      "name": "ML / DL Frameworks",
+      "level": "",
+      "keywords": ["PyTorch", "HuggingFace Transformers", "Scikit-learn"]
+    },
+    {
+      "name": "Data & Analysis",
+      "level": "",
+      "keywords": ["Pandas", "NumPy", "Matplotlib", "LaTeX"]
+    },
+    {
+      "name": "DevOps & Tools",
+      "level": "",
+      "keywords": ["Docker", "Git", "Linux"]
+    },
+    {
+      "name": "Domains",
+      "level": "",
+      "keywords": ["Multimodal Fusion", "Medical Imaging", "Missing Data Imputation", "Survival Analysis"]
     }
   ],
   "languages": [
