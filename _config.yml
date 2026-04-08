@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Camillo Maria Caruso # the website title (if blank, full name will be used instead)
 first_name: Camillo Maria
 middle_name:
 last_name: Caruso
@@ -17,7 +17,7 @@ footer_text: >
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: camillo maria caruso, ml research engineer, artificial intelligence, machine learning, deep learning, pytorch, multimodal fusion, medical AI, missing data, transformer, università campus bio-medico di roma # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📌 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon-32x32.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://cmcaruso.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
