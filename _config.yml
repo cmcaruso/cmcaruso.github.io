@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Camillo Maria Caruso # the website title (if blank, full name will be used instead)
-first_name: Camillo Maria
+title: "Camillo Maria Caruso" # the website title (if blank, full name will be used instead)
+first_name: "Camillo Maria"
 middle_name:
-last_name: Caruso
+last_name: "Caruso"
 contact_note: >
   Feel free to contact me!
 #  You can even add a little note about which of these is the best way to reach you.
@@ -188,7 +188,7 @@ terser:
 
 scholar:
   last_name: [Caruso]
-  first_name: [Camillo Maria, C.M.]
+  first_name: [Camillo Maria]
 
   style: apa
   locale: en
