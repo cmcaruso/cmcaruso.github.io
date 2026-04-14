@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+/.claude
+assets/pdf/CV_Caruso_industry.pdf
+assets/pdf/CV_Caruso_academic.pdf
+assets/pdf/CV_Caruso.png
