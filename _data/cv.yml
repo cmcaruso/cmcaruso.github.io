@@ -60,9 +60,9 @@
     - year: 2021
       items:
         - Italian professional qualification enabling engineering practice.
-    - year: 2011
-      items:
-        - First Certificate in English (FCE), University of Cambridge ESOL
+    #- year: 2011
+    #  items:
+    #    - First Certificate in English (FCE), University of Cambridge ESOL
 
 - title: Technical Skills
   type: nested_list
