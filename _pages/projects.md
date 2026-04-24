@@ -21,7 +21,7 @@ nav_order: 2
 
 **Multimodal Attention Resilient to Incomplete datA** — A multimodal transformer that fuses clinical tabular data and medical imaging for diagnosis and prognosis, handling arbitrarily missing modalities at both training and inference time.
 
-- **Stack:** Python, PyTorch, HuggingFace
+- **Stack:** Python, PyTorch
 - **Paper:** [Computers in Biology and Medicine (2025)](https://doi.org/10.1016/j.compbiomed.2025.110843)
 - **Code:** [cosbidev/MARIA](https://github.com/cosbidev/MARIA)
 
@@ -31,6 +31,6 @@ nav_order: 2
 
 **Text-to-CT Generation** — A 3D latent diffusion model with contrastive vision-language pretraining that generates synthetic CT volumes from free-text radiology descriptions.
 
-- **Stack:** Python, PyTorch, HuggingFace Diffusers
+- **Stack:** Python, PyTorch, HuggingFace
 - **Paper:** [arXiv (2025)](http://arxiv.org/abs/2506.00633)
 - **Code:** [cosbidev/Text2CT](https://github.com/cosbidev/Text2CT)
