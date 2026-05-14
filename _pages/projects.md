@@ -19,7 +19,7 @@ nav_order: 2
 
 ## MARIA
 
-**Multimodal Attention Resilient to Incomplete datA** — A multimodal transformer that fuses clinical tabular data and medical imaging for diagnosis and prognosis, handling arbitrarily missing modalities at both training and inference time.
+**Multimodal Attention Resilient to Incomplete datA** — A multimodal transformer that fuses different clinical tabular modalities for diagnosis and prognosis, handling arbitrarily missing modalities at both training and inference time.
 
 - **Stack:** Python, PyTorch
 - **Paper:** [Computers in Biology and Medicine (2025)](https://doi.org/10.1016/j.compbiomed.2025.110843)
